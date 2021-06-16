@@ -25,7 +25,11 @@ Upcoming Features -
 3) Adding Profile Page to change Settings
 4) Block a User
 
-
+Screenshots -
+1. ![ ](Screenshots/ChatActivity.png)
+2. ![ ](Screenshots/MainPage.png)
+3. ![ ](Screenshots/loginPage.png)
+4. ![ ](Screenshots/otpActivity.png)
 
 
 
